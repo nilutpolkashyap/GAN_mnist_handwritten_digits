@@ -1,2 +1,1 @@
-# self_driving_car
-# self_driving_car
+# Generative Adversarial Network for an MNIST Handwritten Digits From Scratch in Keras
